@@ -1,6 +1,6 @@
 package com.example.btvn_api.model;
 
-public class LoginRequest {
+public class    LoginRequest {
     private String email;
     private String password;
 
